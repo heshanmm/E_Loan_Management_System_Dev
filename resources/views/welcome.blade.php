@@ -16,7 +16,7 @@
 </head>
 
 <body>
-    <div class="container-fluid" style="margin-top: -7rem; margin-bottom: 8rem;">
+    <div class="container-fluid" style="margin-top: -4rem; margin-bottom: 8rem;">
         <div class="" style="position: absolute; margin-left: 13rem; margin-top:37rem">
             <a href="{{ route('login') }}" class="btn btn-outline-primary px-4 pt-2">Log in</a>
         </div>
